@@ -78,10 +78,7 @@ modeloActivo=null;
   }
 
 }
-targetPais("mexico", 3, "video-mex-arg"); 
 targetPais("argentina", 3, "video-mex-arg"); 
-targetPais("ecuador", 3, "video-ecuador");
-
 
 document.querySelectorAll("#filtrosVid button").forEach(btn=>{
   btn.addEventListener("click", ()=>{

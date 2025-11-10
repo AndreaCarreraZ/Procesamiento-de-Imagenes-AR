@@ -86,7 +86,6 @@
   
 <div id="contenedor-videos">
 <video id="video-mex-arg" class="video" src="./assets/videos/Mexico vs Argentina.mp4" style="display:none;" loop crossorigin="anonymous" webkit-playsinline playsinline muted ></video>
-<video id="video-ecuador" class="video" src="./assets/videos/Ecuador.mp4"style="display:none;" loop crossorigin="anonymous" webkit-playsinline playsinline muted ></video>
 </div>
 <!--AR-->
   <a-scene
@@ -96,9 +95,7 @@
 
     <!--modelos-->
     <a-assets>
-        <a-asset-item id="godzilla" src="./assets/otroTipo.glb"></a-asset-item>
         <a-asset-item id="gltfArgentina" src="./assets/idle.glb"></a-asset-item>
-        <a-asset-item id="gltfEcuador" src="./assets/spin.glb"></a-asset-item>
     </a-assets>
 
 
@@ -139,24 +136,6 @@
        position="0.30 -0.25 0" scale="0.5 0.5 0.50" >
        </a-gltf-model>
     </a-entity>
-
-                   <!--Targets Ecuador-->
-    <a-entity id="target1-ecuador" mindar-image-target="targetIndex: 6">
-        <a-gltf-model id="anim-ecuador1" src="#gltfEcuador" visible="false"
-       position="0.30 -0.25 0" scale="0.45 0.45 0.45" >
-       </a-gltf-model>
-    </a-entity>
-    <a-entity id="target2-ecuador" mindar-image-target="targetIndex: 7">
-        <a-gltf-model id="anim-ecuador2" src="#gltfEcuador" visible="false"
-       position="0.30 -0.25 0" scale="0.45 0.45 0.45" >
-       </a-gltf-model>
-    </a-entity>
-    <a-entity id="target3-ecuador" mindar-image-target="targetIndex: 8">
-        <a-gltf-model id="anim-ecuador3" src="#gltfEcuador" visible="false"
-       position="0.30 -0.25 0" scale="0.45 0.45 0.45">
-       </a-gltf-model>
-    </a-entity>
-
 
 
   </a-scene>
