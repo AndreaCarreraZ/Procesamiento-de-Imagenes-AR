@@ -99,11 +99,19 @@ if(modeloActivo){
   desactivarVideo(video); 
   modeloActivo.setAttribute("visible", "true"); 
   if(modeloEstatico){
-    modeloActivo.removeAttribute("animation-mixer"); 
-  modeloActivo.setAttribute("animation-mixer", {clip: "*", loop: "repeat"});
+      const pos = modeloActivo.getAttribute("position") || { x: 0, y: 0, z: 0 };
+  modeloActivo.setAttribute("animation__bounce", {
+    property: "position",
+    dir: "alternate",
+    dur: 500,
+    loop: true,
+    easing: "easeInOutSine",
+    to: `${pos.x} ${pos.y + 0.5} ${pos.z}`,
+  });
   modeloEstatico=false; 
   }else {
-    modeloActivo.removeAttribute("animation-mixer"); 
+     modeloActivo.removeAttribute("animation__bounce");
+  modeloActivo.setAttribute("position", "0.30 -0.25 0");
     modeloEstatico=true; 
   }
    
