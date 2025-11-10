@@ -1,0 +1,144 @@
+{
+    "mexico": {
+    "Pais": "México", 
+    "Ultimo Ranking en la FIFA": "#14", 
+    "Primera participación": "Uruguay 1930", 
+    "Mejores resultados": "Cuartos de Final (1970,1986) Posición 6",
+    "Copas del mundo": "0", 
+    "Partidos ganados": "17", 
+    "Partidos perdidos": "28", 
+    "Partidos empatados": "15"
+    }, 
+
+    "argentina":{
+    "Pais": "Argentina", 
+    "Ultimo Ranking en la FIFA": "#2", 
+    "Primera participación": "Uruguay 1930", 
+    "Mejores resultados": "Campeón (1978, 1986, 2022)",
+    "Copas del mundo": "3", 
+    "Partidos ganados": "47", 
+    "Partidos perdidos": "19", 
+    "Partidos empatados": "20"
+    }, 
+
+     "brasil":{
+        "Pais": "Brasil", 
+    "Ultimo Ranking en la FIFA": "#7", 
+    "Primera participación": "Uruguay 1930", 
+    "Mejores resultados": "Campeón(1958, 1962, 1970, 1994, 2002)",
+    "Copas del mundo": "5", 
+    "Partidos ganados": "76", 
+    "Partidos perdidos": "19", 
+    "Partidos empatados": "19"   
+    }, 
+
+    "canada":{
+        "Pais": "Canadá", 
+    "Ultimo Ranking en la FIFA": "#28", 
+    "Primera participación": "Mexico 1986", 
+    "Mejores resultados": "fase de grupos (1986) Posición 24",
+    "Copas del mundo": "0", 
+    "Partidos ganados": "0", 
+    "Partidos perdidos": "0", 
+    "Partidos empatados": "6"   
+    }, 
+
+    "japon":{
+        "Pais": "Japón", 
+    "Ultimo Ranking en la FIFA": "#19", 
+    "Primera participación": "Francia 1998", 
+    "Mejores resultados": "Octavos de Final (2002, 2010, 2022) Posición 9",
+    "Copas del mundo": "0", 
+    "Partidos ganados": "7", 
+    "Partidos perdidos": "12", 
+    "Partidos empatados": "6"    
+    }, 
+
+    "nueva-zelanda":{
+    "Pais": "Nueva Zelanda", 
+    "Ultimo Ranking en la FIFA": "#85", 
+    "Primera participación": "España 1982", 
+    "Mejores resultados": "Fase de Grupos (2010) Posición 22",
+    "Copas del mundo": "0", 
+    "Partidos ganados": "0", 
+    "Partidos perdidos": "3", 
+    "Partidos empatados": "3"
+    }, 
+
+    "iran":{
+    "Pais": "Irán", 
+    "Ultimo Ranking en la FIFA": "#21", 
+    "Primera participación": "Argentina 1978", 
+    "Mejores resultados": "Fase de grupos (1978) Posición 14",
+    "Copas del mundo": "0", 
+    "Partidos ganados": "3", 
+    "Partidos perdidos": "4", 
+    "Partidos empatados": "11"
+    }, 
+
+    "jordania":{
+        "Pais": "Jordania", 
+    "Ultimo Ranking en la FIFA": "#66", 
+    "Primera participación": "Mundial 2026", 
+    "Mejores resultados": "No aplica",
+    "Copas del mundo": "0", 
+    "Partidos ganados": "0", 
+    "Partidos perdidos": "0", 
+    "Partidos empatados": "0"  
+    }, 
+
+     "corea-del-sur":{
+       "Pais": "", 
+    "Ultimo Ranking en la FIFA": "#22", 
+    "Primera participación": "Suiza 1954", 
+    "Mejores resultados": "Cuartos de final (2002)",
+    "Copas del mundo": "0", 
+    "Partidos ganados": "7", 
+    "Partidos perdidos": "21", 
+    "Partidos empatados": "10"
+    }, 
+
+     "uzbekistan":{
+    "Pais": "Uzbekistán", 
+    "Ultimo Ranking en la FIFA": "#55", 
+    "Primera participación": "Mundial 2026", 
+    "Mejores resultados": "No aplica",
+    "Copas del mundo": "0", 
+    "Partidos ganados": "0", 
+    "Partidos perdidos": "0", 
+    "Partidos empatados": "0"
+    }, 
+
+     "ecuador":{
+    "Pais": "Ecuador", 
+    "Ultimo Ranking en la FIFA": "#23", 
+    "Primera participación": "República de Corea - Japón 2002", 
+    "Mejores resultados": "Octavos de Final (2006) Posición 12",
+    "Copas del mundo": "0", 
+    "Partidos ganados": "5", 
+    "Partidos perdidos": "6", 
+    "Partidos empatados": "2"
+    }, 
+
+     "australia":{
+    "Pais": "Australia", 
+    "Ultimo Ranking en la FIFA": "#25", 
+    "Primera participación": "República Federal de Alemania 1974", 
+    "Mejores resultados": "Octavos de final (2006 y 2022) Posición 11",
+    "Copas del mundo": "0", 
+    "Partidos ganados": "4", 
+    "Partidos perdidos": "12", 
+    "Partidos empatados": "4"
+    }, 
+
+     "estados-unidos":{
+    "Pais": "Estados Unidos", 
+    "Ultimo Ranking en la FIFA": "#16", 
+    "Primera participación": "Uruguay 1930", 
+    "Mejores resultados": "Tercer Lugar 1930",
+    "Copas del mundo": "0", 
+    "Partidos ganados": "9", 
+    "Partidos perdidos": "20", 
+    "Partidos empatados": "8"
+    }
+}

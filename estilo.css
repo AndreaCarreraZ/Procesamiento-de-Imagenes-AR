@@ -1,0 +1,216 @@
+nav.navbar {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 9999;
+}
+
+ body {
+      background-color: #40506c; /* verde clarito */
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+    .landing {
+         background-color: #40506c;
+      flex: 1;
+      display: flex;    
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+    .logo {
+      width: 160px;
+      height: 160px;
+      background: white;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2rem;
+      font-weight: bold;
+      color: #198754; /* verde bootstrap */
+      margin-bottom: 20px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+
+    .logo img {
+  max-width: 90%;
+  max-height: 90%;
+  object-fit: contain; /* hace que la imagen se ajuste sin deformarse */
+}
+
+ .loguito {
+      width: 40px;
+      height: 40px;
+      background: white;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2rem;
+      font-weight: bold;
+      margin-right: 8px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+
+        .loguito img {
+  max-width: 90%;
+  max-height: 90%;
+  object-fit: contain; /* para que la imagen se ajuste sin deformarse */
+}
+
+#filtrosVid{
+  position: fixed;
+  bottom: 30%;         
+  left: 85%;             
+  
+  display: flex;         
+  flex-wrap: wrap;       
+  justify-content: center;
+  
+  z-index: 10000;        /* por encima del AR */
+  background: rgba(0,0,0,0.4); 
+  padding: 10px 20px;
+  border-radius: 12px;
+  width: 300px;
+  gap:10px; 
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.menu-acciones {
+  position: fixed;
+  bottom: 20px;         
+  left: 50%;             
+  transform: translateX(-50%); 
+  
+  display: flex;         
+  flex-wrap: wrap;       
+  justify-content: center;
+  
+  z-index: 10000;        /* por encima del AR */
+  background: rgba(0,0,0,0.4); 
+  padding: 10px 20px;
+  border-radius: 12px;
+  width: 600px;
+  max-width: 70vw;
+  gap:10px; 
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.menu-acciones button {
+  min-width: 250px;  
+  max-width: 65vw;
+  padding: 3px;    
+  border:3px solid #121e32; 
+ border-radius: 10px;
+ 
+}
+
+
+
+@media (max-width: 600px) {
+  #filtrosVid {
+    left: 50%;
+    top: 70px;
+    transform: translateX(-50%);
+    bottom: auto;
+    transform: none;
+    max-width: 46vw;
+    width: auto;
+    padding-top: 5px;
+  padding-bottom: 5px;
+  }
+}
+
+@media (max-width: 600px) {
+#filtrosVid button{
+  min-width: 150px;  
+  max-width: 15vw;
+  padding: 3px;    
+  border:3px solid #121e32; 
+ border-radius: 10px;
+}
+}
+/* contenedor de info: fijo a la derecha y centrado verticalmente */
+.contenedor-info {
+  position: fixed;
+  right: 80px;                 /* separación del borde derecho */
+  top: 50%;                    /* centro vertical de la pantalla */
+  transform: translateY(-50%); /* ajusta para centrar exactamente */
+  width: 320px;                
+  max-width: 40vw;
+  background: rgba(255,255,255,0.95);
+  color: #102030;
+  padding: 16px 20px;
+  border-radius: 12px;
+  z-index: 20000;              
+}
+
+.contenedor-info p {
+ font-size: large;
+}
+
+@media (max-width: 600px) {
+  .contenedor-info {
+    right: 10px;
+    left: 10px;
+    top: auto;
+    bottom: 180px;
+    transform: none;
+    max-width: none;
+    width: auto;
+  }
+  .contenedor-info.visible { transform: none; }
+}
+
+
+
+#contenedor-trivia{
+  position: fixed;
+  right: 80px;
+  top: 50%; 
+  transform: translateY(-50%);
+  width: 320px;               
+  max-width: 50vw;
+   background: rgba(255,255,255,0.95);
+  color: #102030;
+  padding: 16px;
+  border-radius: 12px;
+  text-align: center;
+  z-index: 20000; 
+} 
+#contenedor-trivia p{
+  font-size: large;
+  margin-bottom: 10px;
+}
+
+#contenedor-videos video{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 600px;
+  max-width: 80vw;
+  z-index: 9999;
+  object-fit: contain;
+}
+
+
+.filter-none {
+  filter:none; 
+}
+.filter-bw{
+  filter: grayscale(100%); 
+}
+.filter-contrast{
+  filter:contrast(180%); 
+}
+.filter-antiguo{
+  filter: sepia(90%); 
+}
+.filter-invert {
+  filter: invert(100%);
+}

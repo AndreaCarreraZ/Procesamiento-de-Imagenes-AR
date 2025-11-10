@@ -1,0 +1,357 @@
+{
+    "mexico": [
+        {
+        "pregunta": "Mexico fue el primer país en ser organizador del mundial por segunda vez, en que año fue?", 
+        "opc": [1986, 1998, 1994], 
+        "answ": 0 
+         }, 
+          {
+            
+        "pregunta": "La Selección mexicana debutó en la Copa Mundial en...", 
+        "opc": ["Italia 1934", "Brasil 1950", "Uruguay 1930"], 
+        "answ": 2
+         }, 
+          {
+            
+        "pregunta": "En cuantas ediciones del Mundial ha participado Mexico?", 
+        "opc": [22, 17, 15], 
+        "answ": 1
+         }, 
+            {
+        "pregunta": "En que ediciones del Mundial ha participado Canadá? ", 
+        "opc": ["México 1986 y Qatar 2022", "Francia 1998 y Qatar 2022", "Alemania 2006 y Qatar 2022"], 
+        "answ": 0 
+         }, 
+         {
+        "pregunta": "Canadá nunca ha pasado de la fase de grupos", 
+        "opc": ["Verdadero", "Falso"], 
+        "answ": 0 
+         }
+
+], 
+    "argentina": [
+        {
+        "pregunta": "Cuantas participaciones ha tenido Argentina en la Copa Mundial de la FIFA? ", 
+        "opc": [20, 18, 16], 
+        "answ": 1
+         },   
+         {
+        "pregunta": "En cuantos mundiales ha estado presente Lionel Messi?", 
+        "opc": [4,6,5], 
+        "answ": 2 
+         }, 
+         {
+        "pregunta": "Argentina ha ganado el Mundial en tres ocasiones, en donde fue?", 
+        "opc": ["España 1982, Alemania 2006 y Qatar 2022", "Argentina 1978, México 1986 y Qatar 2022", "Brasil 1950, México 1970 y Qatar 2022"], 
+        "answ": 1
+         }, 
+        {           
+        "pregunta": "La Selección mexicana debutó en la Copa Mundial en...", 
+        "opc": ["Italia 1934", "Brasil 1950", "Uruguay 1930"], 
+        "answ": 2
+         }, 
+          {           
+        "pregunta": "En cuantas ediciones del Mundial ha participado Mexico?", 
+        "opc": [22, 17, 15], 
+        "answ": 1
+         }
+], 
+     "brasil": [
+        {
+        "pregunta": "Brasil es la selección más exitosa en la historia de la Copa Mundial de la FIFA, cuantos titulos ha obtenido? ", 
+        "opc": [5, 4, 6], 
+        "answ": 0 
+         }, 
+         {
+        "pregunta": "Cual fue la mascota oficial de la Copa Mundial de la FIFA Brasil 2014? ", 
+        "opc": ["Un jaguar", "Un ave", "Un armadillo"], 
+        "answ": 2
+         }, 
+         {
+        "pregunta": "En cuantas ediciones del Mundial ha participado Brasil? ", 
+        "opc": [20, 18, 22], 
+        "answ": 2 
+         }, 
+                {
+        "pregunta": "En que edicion del Mundial debuto Japón? ", 
+        "opc": ["Francia 1998", "Italia 1990", "México 1986"], 
+        "answ": 0 
+         }, 
+         {
+        "pregunta": "En cuantas ocaciones Japón ha pasado a octavos de final? ", 
+        "opc": [6, 2, 4], 
+        "answ": 2
+         }
+], 
+    "canada": [
+        {
+        "pregunta": "Cuantas veces ha participado Canadá en el Mundial? ", 
+        "opc": [5, 8 , 2], 
+        "answ": 2
+         }, 
+         {
+        "pregunta": "En que ediciones del Mundial ha participado Canadá? ", 
+        "opc": ["México 1986 y Qatar 2022", "Francia 1998 y Qatar 2022", "Alemania 2006 y Qatar 2022"], 
+        "answ": 0 
+         }, 
+         {
+        "pregunta": "Canadá nunca ha pasado de la fase de grupos", 
+        "opc": ["Verdadero", "Falso"], 
+        "answ": 0 
+         }, 
+              {
+        "pregunta": "“Al Nashama” es el apodo de la selección nacional de fútbol de Jordania.", 
+        "opc": ["Verdadero", "Falso"], 
+        "answ": 0 
+         }, 
+         {
+        "pregunta": "En qué año Jordania logró su primera clasificación a una Copa Mundial? ", 
+        "opc": [2010, 2026, 2018], 
+        "answ": 1
+         }
+], 
+    "japon": [
+        {
+        "pregunta": "Cuantos intentos le tomo a Japón clasificar a una Copa del Mundo? ", 
+        "opc": [8, 6, 10], 
+        "answ": 2 
+         }, 
+         {
+        "pregunta": "En que edicion del Mundial debuto Japón? ", 
+        "opc": ["Francia 1998", "Italia 1990", "México 1986"], 
+        "answ": 0 
+         }, 
+         {
+        "pregunta": "En cuantas ocaciones Japón ha pasado a octavos de final? ", 
+        "opc": [6, 2, 4], 
+        "answ": 2
+         }, 
+                {
+        "pregunta": "Uzbekistán nunca había clasificado a un Mundial hasta el 2026", 
+        "opc": ["Verdadero","Falso"], 
+        "answ": 0 
+         }, 
+         {
+        "pregunta": "El partido contra los Emiratos Árabes Unidos fue el que aseguró la clasificación de Uzbekistán al Mundial. ¿Cuál fue el resultado de este encuentro?", 
+        "opc": ["0-0", "1-0", "2-1"], 
+        "answ": 0 
+         }
+], 
+    "nueva-zelanda": [
+        {
+        "pregunta": "En cuantos Mundiales a participado Nueva Zelanda? ", 
+        "opc": [2, 5, 8], 
+        "answ": 0 
+         }, 
+         {
+        "pregunta": "Cuales son los Mundiales en los que ha participado Nueva Zelanda? ", 
+        "opc": ["Alemania 2006 y Qatar 2022", "España 1982 y Sudáfrica 2010", "Italia 1990 y Francia 1998"], 
+        "answ": 1
+         }, 
+         {
+        "pregunta": "En Sudáfrica 2010, Nueva Zelanda terminó su grupo sin perder ningún partido.", 
+        "opc": ["Verdadero", "Falso"], 
+        "answ": 0
+         }, 
+                 {
+        "pregunta": "¿En que año Irán hizo su debut mundialista?", 
+        "opc": [1958, 1978, 1994], 
+        "answ": 1
+         }, 
+         {
+        "pregunta": "Irán logró sorprender a la comunidad futbolística ganando 2-1 contra Escocia en su primera participación.", 
+        "opc": ["Verdadero","Falso"], 
+        "answ": 1 
+         }
+], 
+    "iran": [
+        {
+        "pregunta": "¿En que año Irán hizo su debut mundialista?", 
+        "opc": [1958, 1978, 1994], 
+        "answ": 1
+         }, 
+         {
+        "pregunta": "Irán logró sorprender a la comunidad futbolística ganando 2-1 contra Escocia en su primera participación.", 
+        "opc": ["Verdadero","Falso"], 
+        "answ": 1 
+         }, 
+         {
+        "pregunta": "Cuantas participaciones ha tenido Irán en la Copa Mundial de la FIFA? ", 
+        "opc": [8, 6, 4], 
+        "answ": 1 
+         }, 
+          {
+        "pregunta": "Brasil es la selección más exitosa en la historia de la Copa Mundial de la FIFA, cuantos titulos ha obtenido? ", 
+        "opc": [5, 4, 6], 
+        "answ": 0 
+         }, 
+         {
+        "pregunta": "Cual fue la mascota oficial de la Copa Mundial de la FIFA Brasil 2014? ", 
+        "opc": ["Un jaguar", "Un ave", "Un armadillo"], 
+        "answ": 2
+         }
+], 
+    "jordania": [
+        {
+        "pregunta": "Jordania se clasificó por primera vez en su historia para la Copa Mundial de la FIFA en 2022", 
+        "opc": ["Verdadero", "Falso"], 
+        "answ": 1
+         }, 
+         {
+        "pregunta": "“Al Nashama” es el apodo de la selección nacional de fútbol de Jordania.", 
+        "opc": ["Verdadero", "Falso"], 
+        "answ": 0 
+         }, 
+         {
+        "pregunta": "En qué año Jordania logró su primera clasificación a una Copa Mundial? ", 
+        "opc": [2010, 2026, 2018], 
+        "answ": 1
+         }, 
+                {
+        "pregunta": "En que edicion del Mundial debuto Japón? ", 
+        "opc": ["Francia 1998", "Italia 1990", "México 1986"], 
+        "answ": 0 
+         }, 
+         {
+        "pregunta": "En cuantas ocaciones Japón ha pasado a octavos de final? ", 
+        "opc": [6, 2, 4], 
+        "answ": 2
+         }
+], 
+     "corea-del-sur": [
+        {
+        "pregunta": "En cuantas Copas Mundiales ha participado Corea del sur? ", 
+        "opc": [14, 11, 9], 
+        "answ": 1
+         }, 
+         {
+        "pregunta": "Corea del sur es la selección asiática con más participaciones en el Mundial", 
+        "opc": ["Verdadero","Falso"], 
+        "answ": 0
+         }, 
+         {
+        "pregunta": "En que edición fue la primera participación de Corea del sur en la Copa Mundial de la FIFA? ", 
+        "opc": ["Suiza 1954", "Brasil 1950", "Italia 1934"], 
+        "answ": 0 
+         }, 
+                 {
+        "pregunta": "En cuantos mundiales ha estado presente Lionel Messi?", 
+        "opc": [4,6,5], 
+        "answ": 2 
+         }, 
+         {
+        "pregunta": "Argentina ha ganado el Mundial en tres ocasiones, en donde fue?", 
+        "opc": ["España 1982, Alemania 2006 y Qatar 2022", "Argentina 1978, México 1986 y Qatar 2022", "Brasil 1950, México 1970 y Qatar 2022"], 
+        "answ": 1
+         }
+], 
+     "uzbekistan": [
+        {
+        "pregunta": "Uzbekistán tuvo su primera participación en la Copa Mundial en Qatar 2022", 
+        "opc": ["Verdadero", "Falso"], 
+        "answ": 1
+         }, 
+         {
+        "pregunta": "Uzbekistán nunca había clasificado a un Mundial hasta el 2026", 
+        "opc": ["Verdadero","Falso"], 
+        "answ": 0 
+         }, 
+         {
+        "pregunta": "El partido contra los Emiratos Árabes Unidos fue el que aseguró la clasificación de Uzbekistán al Mundial. ¿Cuál fue el resultado de este encuentro?", 
+        "opc": ["0-0", "1-0", "2-1"], 
+        "answ": 0 
+         }, 
+                  {
+        "pregunta": "Despues de su debut, Australia tuvo que esperar 32 años para volver a participar en una Copa Mundial", 
+        "opc": ["Verdadero","Falso"], 
+        "answ": 0 
+         }, 
+         {
+        "pregunta": "En cuantas Copas Mundiales ha participado Australia?", 
+        "opc": [6, 8, 10], 
+        "answ": 0 
+         }
+], 
+     "ecuador": [
+        {
+        "pregunta": "¿En que edición Ecuador debuto en la Copa Mundial de la FIFA?", 
+        "opc": ["Corea-Japón 2002", "Estados Unidos 1994", "México 1986"], 
+        "answ": 0 
+         }, 
+         {
+        "pregunta": "¿En cuantas Copas Mundiales ha participado Ecuador?", 
+        "opc": [3,8,4], 
+        "answ": 2 
+         }, 
+         {
+        "pregunta": "En 2006 Ecuador logró alcanzar los octavos de final.", 
+        "opc": ["Verdadero", "Falso"], 
+        "answ": 0 
+         }, 
+                  {
+        "pregunta": "Cuales son los Mundiales en los que ha participado Nueva Zelanda? ", 
+        "opc": ["Alemania 2006 y Qatar 2022", "España 1982 y Sudáfrica 2010", "Italia 1990 y Francia 1998"], 
+        "answ": 1
+         }, 
+         {
+        "pregunta": "En Sudáfrica 2010, Nueva Zelanda terminó su grupo sin perder ningún partido.", 
+        "opc": ["Verdadero", "Falso"], 
+        "answ": 0
+         }
+], 
+     "australia": [
+        {
+        "pregunta": "¿En que año debutó Australia en la Copa Mundial? ", 
+        "opc": [2006, 1966, 1974], 
+        "answ": 2
+         }, 
+         {
+        "pregunta": "Despues de su debut, Australia tuvo que esperar 32 años para volver a participar en una Copa Mundial", 
+        "opc": ["Verdadero","Falso"], 
+        "answ": 0 
+         }, 
+         {
+        "pregunta": "En cuantas Copas Mundiales ha participado Australia?", 
+        "opc": [6, 8, 10], 
+        "answ": 0 
+         }, 
+                   {       
+        "pregunta": "La Selección mexicana debutó en la Copa Mundial en...", 
+        "opc": ["Italia 1934", "Brasil 1950", "Uruguay 1930"], 
+        "answ": 2
+         }, 
+          {
+            
+        "pregunta": "En cuantas ediciones del Mundial ha participado Mexico?", 
+        "opc": [22, 17, 15], 
+        "answ": 1
+         }
+], 
+     "estados-unidos": [
+        {
+        "pregunta": "Las mejores actuaciones de Estados Unidos han sido las semifinales de Uruguay 1930 y los cuartos de final en Corea-Japón 2002.", 
+        "opc": ["Verdadero","Falso"], 
+        "answ": 0
+         }, 
+         {
+        "pregunta": "En cuantas Copas Mundiales ha participado Estados Unidos?", 
+        "opc": [9, 18, 11], 
+        "answ": 2
+         }, 
+         {
+        "pregunta": "En que año Estados Unidos fue anfitrion de la Copa Mundial", 
+        "opc": [1966, 1994, 1982], 
+        "answ": 1 
+         }, 
+                 {
+        "pregunta": "¿En que edición Ecuador debuto en la Copa Mundial de la FIFA?", 
+        "opc": ["Corea-Japón 2002", "Estados Unidos 1994", "México 1986"], 
+        "answ": 0 
+         }, 
+         {
+        "pregunta": "¿En cuantas Copas Mundiales ha participado Ecuador?", 
+        "opc": [3,8,4], 
+        "answ": 2 
+         }
+]
+}

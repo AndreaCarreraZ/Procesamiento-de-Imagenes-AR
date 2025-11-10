@@ -1,0 +1,54 @@
+{
+    "mexico": {
+        "titulo": "México", 
+        "texto": "En 1986 Mexico sería el primer país en ser el organizador del mundial por segunda vez."
+    }, 
+    "argentina":{
+        "titulo": "Argentina", 
+        "texto":"En Qatar, Lionel Messi se convirtio en el único futbolista argentino que estuvo presente en cinco Mundiales."
+    }, 
+     "brasil":{
+        "titulo": "Brasil", 
+        "texto":"Fuleco, un armadillo de tres bandas brasileño, fue la mascota oficial de la Copa Mundial de la FIFA Brasil 2014."
+    }, 
+    "canada":{
+        "titulo":"Canadá", 
+        "texto":"Canadá solo ha participado en el Mundial en dos ocasiones: México 1986 y Qatar 2022."
+    }, 
+    "japon":{
+        "titulo":"Japón", 
+        "texto": "A Japón le tomó 10 intentos poder clasificar a una Copa del Mundo, pero desde que lo hizo jamás volvió a perderse una. Su primera cita mundialista sucedió en Francia 1998."
+    }, 
+    "nueva-zelanda":{
+        "titulo":"Nueva Zelanda", 
+        "texto":"Nueva Zelanda ha participado en dos Mundiales de fútbol, en 1982 y 2010."
+    }, 
+    "iran":{
+        "titulo":"Irán", 
+        "texto":"Irán hizo su debut mundialista en 1978, empatando 1-1 contra Escocia en su primera participación."
+    }, 
+    "jordania":{
+        "titulo":"Jordania", 
+        "texto":"Jordania logró su primera clasificación a una Copa Mundial en 2026."
+    }, 
+     "corea-del-sur":{
+        "titulo":"Corea del sur", 
+        "texto":"Corea del Sur ha participado en 11 Copas del Mundo, la primera en 1954 y su última en 2022, siendo la selección asiática con más participaciones."
+    }, 
+     "uzbekistan":{
+        "titulo":"Uzbekistán", 
+        "texto":"Uzbekistán nunca había clasificado a un Mundial hasta el 2026, logrando su primer pase a la Copa del Mundo de Norteamérica 2026 tras empatar 0-0 ante Emiratos Árabes Unidos."
+    }, 
+     "ecuador":{
+        "titulo":"Ecuador", 
+        "texto":"Con la confirmación de su pase para la Copa Mundial 2026, sumará cinco participaciones en Mundiales, debuto en 2002 y en 2006 logró alcanzar los octavos de final."
+    }, 
+     "australia":{
+        "titulo":"Australia", 
+        "texto":"Debutó en la Copa Mundial de la FIFA en 1974, pero tuvo que esperar 32 años para regresar a la fase final de la competición en Alemania 2006. Desde entonces, la selección australiana se ha clasificado para todas las ediciones del torneo. "
+    }, 
+     "estados-unidos":{
+        "titulo":"Estados Unidos", 
+        "texto":"Ha participado en 11 Mundiales, siendo su mejor actuación las semifinales de Uruguay 1930 y la ronda de cuartos de final en Corea-Japón 2002."
+    }
+}
